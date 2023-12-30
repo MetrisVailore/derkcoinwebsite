@@ -1,3 +1,3 @@
-# [kristiankramer.net](https://kristiankramer.net)
+# [derkcoin.net](https://derkcoin.net)
 
-My personal website.
+Derkcoin website.
